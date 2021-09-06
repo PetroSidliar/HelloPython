@@ -1,2 +1,2 @@
 # HelloPython
-Excercises from the first assignment
+Exercises from the first assignment
